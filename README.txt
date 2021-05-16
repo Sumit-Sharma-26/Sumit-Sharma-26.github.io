@@ -1,6 +1,6 @@
 This is my Portfolio hosted with Github Pages:-
 
-https://thakurvibha.github.io/
+https://sumitsharma26.github.io/
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
