@@ -1,6 +1,7 @@
 This is my Portfolio hosted with Github Pages:-
 
-https://sumitsharma26.github.io/
+https://sumit-sharma-26.github.io/sumitsharma26/
+
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
